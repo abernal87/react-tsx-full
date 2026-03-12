@@ -161,10 +161,8 @@ const styles = {
      position: 'absolute',
      top: '25px',
      left: '30px',
-     textShadow: '60px 0px 0px, -60px 0px 0px, -25px 30px 0px, 25px -30px 0px, 30px 30px 0px, -30px -30px 0px, 0px 60px
-```
-0px, 0px -60px 0px',
-```tsx
+     textShadow: '60px 0px 0px, -60px 0px 0px, -25px 30px 0px, 25px -30px 0px, 30px 30px 0px, -30px -30px 0px, 0px 60px 0px, 0px -60px 0px',
+
   }
 }
 
